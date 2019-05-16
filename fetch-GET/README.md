@@ -1,3 +1,3 @@
 ## - Datamuse API -
 
-
+fetch() GET
