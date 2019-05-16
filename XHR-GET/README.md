@@ -1,0 +1,3 @@
+## - Datamuse API -
+
+XMLHttpRequest() GET
